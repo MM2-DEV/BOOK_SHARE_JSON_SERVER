@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "json-server": "node server.js",
+    "start": "json-server --watch db.json --port 4040 --routes routes.json"
   },
   "author": "",
   "license": "ISC",
