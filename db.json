@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Munna",
+      "email": "munna.cse.pust@gmail.com",
+      "password": "12345678",
+      "semester": "2-1",
+      "studentId": 160133,
+      "session": "2015-16",
+      "roleId": 1,
+      "dob": "1/1/1997"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "type": "SUPER_ADMIN"
+    },
+    {
+      "id": 2,
+      "type": "ADMIN"
+    },
+    {
+      "id": 3,
+      "type": "READER"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "nameEn": "Bela Furabar Age",
+      "nameBn": "Bela Furabar Age",
+      "image": "images",
+      "addedByDonor": null,
+      "addedBySale": true,
+      "totalAvailable": 50,
+      "totalReaders": [],
+      "isShared": true,
+      "currentReader": "user-1",
+      "edition": 2,
+      "genreId": 1,
+      "writerId": 2,
+      "bookDonorId": 0
+    }
+  ],
+  "requestedReaders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "bookId": 1
+    }
+  ],
+  "futureReads": [
+    {
+      "id": 1,
+      "userId": 1,
+      "bookId": 1
+    }
+  ],
+  "readerLoves": [
+    {
+      "id": 1,
+      "userId": 1,
+      "bookId": 1
+    }
+  ],
+  "currentReaders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "bookId": 1
+    }
+  ],
+  "ratings": [{ "id": 1, "bookId": 1, "userId": 1, "ratingValue": 5.6 }],
+  "reviews": [
+    { "id": 1, "bookId": 1, "userId": 1, "reviewContent": "lorem lorem" }
+  ],
+  "genres": [{ "id": 1, "type": "story book" }],
+  "writers": [
+    {
+      "id": 1,
+      "name": "story book",
+      "dob": "1/1/1997",
+      "images": "images"
+    }
+  ],
+  "bookDonors": [
+    {
+      "id": 1,
+      "name": "story book",
+      "dob": "1/1/1997",
+      "date": "1/1/1997",
+      "booksInfo": "books-1"
+    }
+  ]
+}
