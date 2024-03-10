@@ -89,13 +89,66 @@
       "id": 1,
       "bookId": 1,
       "userId": 1,
-      "reviewContent": "lorem lorem"
+      "reviewContent": "lorem lorem",
+      "date": "9/03/2024"
     }
   ],
   "genres": [
     {
       "id": 1,
-      "type": "story book"
+      "name": "story book",
+      "description": "description",
+      "date": "10/03/2024"
+
+    },
+    {
+      "id": 2,
+      "name": "Poetry",
+      "description": "description",
+      "date": "10/03/2024"
+
+    },
+    {
+      "id": 3,
+      "name": "Novel",
+      "description": "description",
+      "date": "10/03/2024"
+
+    },
+    {
+      "id": 4,
+      "name": "Thriller",
+      "description": "description",
+      "date": "10/03/2024"
+
+    },
+    {
+      "id": 5,
+      "name": "Mystery",
+      "description": "description",
+      "date": "10/03/2024"
+
+    },
+    {
+      "id": 6,
+      "name": "Comedy",
+      "description": "description",
+      "date": "10/03/2024"
+
+    },
+    {
+      "id": 7,
+      "name": "Religious book ",
+      "description": "description",
+      "date": "10/03/2024"
+
+    },
+    {
+      "id": 8,
+      "name": "Tragedy",
+      "description": "description",
+      "date": "10/03/2024"
+
     }
   ],
   "writers": [
@@ -103,6 +156,8 @@
       "id": 1,
       "name": "story book",
       "dob": "1/1/1997",
+      "phone": "01773100924",
+      "gmail": "munna.cse.pust@gmail.com",
       "images": "images"
     }
   ],
@@ -111,8 +166,10 @@
       "id": 1,
       "name": "story book",
       "dob": "1/1/1997",
-      "date": "1/1/1997",
-      "booksInfo": "books-1"
+      "booksInfo": "books-1",
+      "phone": "01773100924",
+      "gmail": "munna.cse.pust@gmail.com",
+      "image": ""
     }
   ]
 }
