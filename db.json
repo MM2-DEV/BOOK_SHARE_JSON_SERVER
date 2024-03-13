@@ -36,16 +36,17 @@
       "nameEn": "Bela Furabar Age",
       "nameBn": "Bela Furabar Age",
       "image": "images",
-      "addedByDonor": null,
-      "addedBySale": true,
+      "isDonateOrBuy": false,
       "totalAvailable": 50,
+      "totalCount": 60,
       "totalReaders": [],
-      "isShared": true,
-      "currentReader": "user-1",
       "edition": 2,
       "genreId": 1,
       "writerId": 2,
-      "bookDonorId": 0
+      "bookDonorId": 0,
+      "donateDate": "",
+      "purchaseDate": "",
+      "price": 0
     }
   ],
   "requestedReaders": [
@@ -166,7 +167,6 @@
       "id": 1,
       "name": "story book",
       "dob": "1/1/1997",
-      "booksInfo": "books-1",
       "phone": "01773100924",
       "gmail": "munna.cse.pust@gmail.com",
       "image": ""
