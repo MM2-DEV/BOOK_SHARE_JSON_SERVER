@@ -42,11 +42,12 @@
       "totalReaders": [],
       "edition": 2,
       "genreId": 1,
-      "writerId": 2,
-      "bookDonorId": 0,
+      "writerId": 1,
+      "bookDonorId": 1,
       "donateDate": "",
-      "purchaseDate": "",
-      "price": 0
+      "purchaseDate": "01/01/1997",
+      "price": 200
+      
     }
   ],
   "requestedReaders": [
