@@ -46,7 +46,9 @@
       "bookDonorId": 1,
       "donateDate": "",
       "purchaseDate": "01/01/1997",
-      "price": 200
+      "price": 200,
+      "isBorrowRequest": false,
+      "isShared": false
       
     }
   ],
@@ -156,7 +158,7 @@
   "writers": [
     {
       "id": 1,
-      "name": "story book",
+      "name": "Munna",
       "dob": "1/1/1997",
       "phone": "01773100924",
       "gmail": "munna.cse.pust@gmail.com",
@@ -166,7 +168,7 @@
   "bookDonors": [
     {
       "id": 1,
-      "name": "story book",
+      "name": "Moni",
       "dob": "1/1/1997",
       "phone": "01773100924",
       "gmail": "munna.cse.pust@gmail.com",
