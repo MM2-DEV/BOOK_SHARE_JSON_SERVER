@@ -174,5 +174,13 @@
       "gmail": "munna.cse.pust@gmail.com",
       "image": ""
     }
+  ],
+  "borrowRequests": [
+    {
+      "id": 1,
+      "dob": "1/1/1997",
+      "bookId": 1,
+      "userId": 1
+    }
   ]
 }
