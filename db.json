@@ -66,7 +66,8 @@
       "purchaseDate": "01/01/1997",
       "price": 2000,
       "isBorrowRequest": false,
-      "isShared": false
+      "isShared": false,
+      "description": "description"
     }
   ],
   "requestedReaders": [
