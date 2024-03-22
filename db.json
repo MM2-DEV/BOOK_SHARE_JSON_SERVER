@@ -35,7 +35,7 @@
       "id": 1,
       "nameEn": "Bela Furabar Age1",
       "nameBn": "Bela Furabar Age",
-      "image": "images",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Bela_Furabar_Age-Arif_Azad-e517b-195175.png",
       "isDonateOrBuy": false,
       "totalAvailable": 50,
       "totalCount": 60,
@@ -49,7 +49,6 @@
       "price": 200,
       "isBorrowRequest": false,
       "isShared": false
-      
     }
   ],
   "requestedReaders": [
@@ -71,7 +70,7 @@
       "id": 1,
       "userId": 1,
       "bookId": 1,
-      "date":"10/03/2024"
+      "date": "10/03/2024"
     }
   ],
   "currentReaders": [
@@ -104,56 +103,48 @@
       "name": "story book",
       "description": "description",
       "date": "10/03/2024"
-
     },
     {
       "id": 2,
       "name": "Poetry",
       "description": "description",
       "date": "10/03/2024"
-
     },
     {
       "id": 3,
       "name": "Novel",
       "description": "description",
       "date": "10/03/2024"
-
     },
     {
       "id": 4,
       "name": "Thriller",
       "description": "description",
       "date": "10/03/2024"
-
     },
     {
       "id": 5,
       "name": "Mystery",
       "description": "description",
       "date": "10/03/2024"
-
     },
     {
       "id": 6,
       "name": "Comedy",
       "description": "description",
       "date": "10/03/2024"
-
     },
     {
       "id": 7,
       "name": "Religious book ",
       "description": "description",
       "date": "10/03/2024"
-
     },
     {
       "id": 8,
       "name": "Tragedy",
       "description": "description",
       "date": "10/03/2024"
-
     }
   ],
   "writers": [
@@ -184,7 +175,7 @@
       "userId": 1
     }
   ],
-  "contactRequests":[
+  "contactRequests": [
     {
       "id": 1,
       "userId": 1,
