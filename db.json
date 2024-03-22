@@ -24,10 +24,6 @@
     {
       "id": 3,
       "type": "READER"
-    },
-    {
-      "id": 5,
-      "type": "READER"
     }
   ],
   "books": [
