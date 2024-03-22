@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Munna",
-      "email": "munna.cse.pust@gmail.com",
+      "name": "moni",
+      "email": "moni.cse.pust@gmail.com",
       "password": "12345678",
       "semester": "2-1",
       "studentId": 160133,
@@ -150,10 +150,10 @@
   "writers": [
     {
       "id": 1,
-      "name": "Munna",
+      "name": "moni",
       "dob": "1/1/1997",
       "phone": "01773100924",
-      "gmail": "munna.cse.pust@gmail.com",
+      "gmail": "moni.cse.pust@gmail.com",
       "images": "images"
     }
   ],
