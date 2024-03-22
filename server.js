@@ -28,5 +28,5 @@ server.use(
 server.use(router);
 
 server.listen(port, () => {
-  console.log(`Your server is running at ${port}`);
+  console.log(`Your server is running at http://localhost:${port}`);
 });

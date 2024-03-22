@@ -46,7 +46,7 @@
       "bookDonorId": 1,
       "donateDate": "",
       "purchaseDate": "01/01/1997",
-      "price": 200,
+      "price": 2000,
       "isBorrowRequest": false,
       "isShared": false
     }
@@ -163,7 +163,7 @@
       "name": "Moni",
       "dob": "1/1/1997",
       "phone": "01773100924",
-      "gmail": "munna.cse.pust@gmail.com",
+      "gmail": "moni.cse.pust@gmail.com",
       "image": ""
     }
   ],
