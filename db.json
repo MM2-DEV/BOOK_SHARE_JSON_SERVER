@@ -3,12 +3,34 @@
     {
       "id": 1,
       "name": "moni",
-      "email": "moni.cse.pust@gmail.com",
-      "password": "12345678",
+      "email": "moni@gmail.com",
+      "password": "123456",
       "semester": "2-1",
       "studentId": 160133,
       "session": "2015-16",
       "roleId": 1,
+      "dob": "1/1/1997"
+    },
+    {
+      "id": 2,
+      "name": "afroja",
+      "email": "afroja@gmail.com",
+      "password": "123456",
+      "semester": "2-1",
+      "studentId": 160133,
+      "session": "2015-16",
+      "roleId": 2,
+      "dob": "1/1/1997"
+    },
+    {
+      "id": 2,
+      "name": "sultana",
+      "email": "sultana@gmail.com",
+      "password": "123456",
+      "semester": "2-1",
+      "studentId": 160133,
+      "session": "2015-16",
+      "roleId": 3,
       "dob": "1/1/1997"
     }
   ],
