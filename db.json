@@ -570,7 +570,7 @@
   "borrowRequests": [
     {
       "id": 1,
-      "dob": "1/1/1997",
+      "date": "1/1/1997",
       "bookId": 1,
       "userId": 1,
       "requestStatus": false,
