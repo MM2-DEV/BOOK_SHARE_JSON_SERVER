@@ -575,7 +575,16 @@
       "userId": 1,
       "requestStatus": true,
       "borrowedStatus": false,
-      "cancelRequest": false
+      "cancelRequest": false  
+    },
+    {
+      "id": 2,
+      "date": "1/1/1997",
+      "bookId": 2,
+      "userId": 1,
+      "requestStatus": true,
+      "borrowedStatus": false,
+      "cancelRequest": false  
     }
   ],
   "contactRequests": [
