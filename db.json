@@ -574,7 +574,8 @@
       "bookId": 1,
       "userId": 1,
       "requestStatus": false,
-      "borrowedStatus": false
+      "borrowedStatus": false,
+      "cancelRequest": false
     }
   ],
   "contactRequests": [
