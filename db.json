@@ -23,9 +23,31 @@
       "dob": "1/1/1997"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "sultana",
       "email": "sultana@gmail.com",
+      "password": "123456",
+      "semester": "2-1",
+      "studentId": 160133,
+      "session": "2015-16",
+      "roleId": 3,
+      "dob": "1/1/1997"
+    },
+    {
+      "id": 4,
+      "name": "dev-admin",
+      "email": "dev-admin@gmail.com",
+      "password": "123456",
+      "semester": "2-1",
+      "studentId": 160133,
+      "session": "2015-16",
+      "roleId": 3,
+      "dob": "1/1/1997"
+    },
+    {
+      "id": 5,
+      "name": "dev-reader",
+      "email": "dev-reader@gmail.com",
       "password": "123456",
       "semester": "2-1",
       "studentId": 160133,
